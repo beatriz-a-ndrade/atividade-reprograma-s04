@@ -12,6 +12,9 @@ function fatorial(n) {
     let valores = [...Array(n).keys()]        // Recupera os indices de um array de n elementos vazios 
                                         //[ o que o keys faz: retorna indices do array]
 
+    
+    // O callback de reduce deve retornar o proximo valor do acumulador
+    // A funcao reduce retorna a ultima execucao de seu callback
     return valores.reduce((acc, v) => {
         return acc * (v + 1)
     }, 1)
