@@ -1,6 +1,6 @@
-# {Reprograma} - Semana 4 : Lógica aplicada - Estrutura de repetição, arrays, métodos e objetos  :white_check_mark: <h1>
+# {Reprograma} - Semana 4 : Lógica aplicada - Estrutura de Repetição, Arrays, Métodos e Objetos  :white_check_mark: <h1>
 
-## O que aprendi na Semana 03 do curso backend {Reprograma}? <h2>
+## O que aprendi na Semana 04 do curso backend {Reprograma}? <h2>
 
 ### 01. Conteúdo :memo: <h3>
 * **Lógica Aplicada**: Estrutura de repetição, arrays, métodos e objetos;
